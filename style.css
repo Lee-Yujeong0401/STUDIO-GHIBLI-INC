@@ -208,7 +208,7 @@ nav .chart-logo {
   }
 
   #ari .box {
-    background-image: url(../project-image/ari-p.jpg);
+    background-image: url(./project-image/ari-p.jpg);
     background-size: cover;
     background-position: center center;
 }
