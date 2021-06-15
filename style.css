@@ -3,7 +3,7 @@
     padding: 0;
 }
 html {
-    cursor: url(../project-image/cursor.cur),auto;
+    cursor: url(./project-image/cursor.cur),auto;
 }
 body {
     background: #999;
@@ -90,7 +90,7 @@ ul {
     padding: 0 50px;
   }
   #main_footer a {
-    color: #9b9b9b;
+    color: #224459;
   }
   .copy {
     font-size: 10px;
@@ -175,40 +175,40 @@ nav .chart-logo {
 }
 
 #cat .box {
-    background-image: url(../project-image/cat-p.jpg);
+    background-image: url(./project-image/cat-p.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 #cat {
     background-color: #ccc;
-    background-image: url(../project-image/bg-cat.png);
+    background-image: url(./project-image/bg-cat.png);
     background-position: center center;
     background-size: cover;
   }
 
 #laputa {
     background-color: #ccc;
-    background-image: url(../project-image/bg-laputa.png);
+    background-image: url(./project-image/bg-laputa.png);
     background-position: center center;
     background-size: cover;
   }
 
 #laputa .box {
-    background-image: url(../project-image/laputa-p.jpg);
+    background-image: url(./project-image/laputa-p.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 #ari {
     background-color: #ccc;
-    background-image: url(../project-image/bg-ari.png);
+    background-image: url(./project-image/bg-ari.png);
     background-position: center center;
     background-size: cover;
   }
 
   #ari .box {
-    background-image: url(../project-image/ari-p.jpg);
+    background-image: url(./project-image/ari-p.jpg);
     background-size: cover;
     background-position: center center;
 }
