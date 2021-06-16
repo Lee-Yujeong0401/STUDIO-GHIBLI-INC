@@ -34,7 +34,7 @@ ul {
   #gnb {
     position: absolute;
     right: -20px;
-    top: 25px;
+    top: 7px;
   }
   #gnb > ul > li {
     float: left;
