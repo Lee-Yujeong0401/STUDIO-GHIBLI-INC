@@ -84,9 +84,9 @@ ul {
   
   
   #main_footer {
-    background: #224459;
+    background:#224459;
     color: #9b9b9b;
-    height: 150px;
+    height: 80px;
     padding: 0 50px;
   }
   #main_footer a {
@@ -97,6 +97,7 @@ ul {
   }
   .footer_nav {
     font-size: 12px;
+    margin-top: 16px;
   }
   
   .left {
@@ -146,7 +147,7 @@ section {
     text-decoration: none;
     margin: 40px;
     color: white;
-    text-shadow: 1px 1px 3px #AB96D9;
+    text-shadow: 2px 2px 3px #AB96D9;
 }
 
 .logo_box ul li a:hover {
