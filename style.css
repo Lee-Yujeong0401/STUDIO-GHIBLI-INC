@@ -131,6 +131,7 @@ section {
     position: relative;
     left: 20%;
     top: 140px;
+    color: white;
 }
 
 .logo_box ul li {
@@ -144,11 +145,13 @@ section {
     color: black;
     text-decoration: none;
     margin: 40px;
+    color: white;
+    text-shadow: 1px 1px 3px #AB96D9;
 }
 
 .logo_box ul li a:hover {
     font-weight: bold;
-    color: white;
+    color: #49d3f2;
 }
 
 .box {
